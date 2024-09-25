@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(/fonts/Inter-Italic-VariableFont_opsz\,wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+textview {
+    background-color: #09090B;
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    margin-left: 10px;
+}

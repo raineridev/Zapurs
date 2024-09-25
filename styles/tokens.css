@@ -1,0 +1,10 @@
+:root
+{
+    /* Style Dark Mode */
+    --background: #09090B;
+    --font-color: white;
+
+    /* Define Style */
+    --left-margin-size: 10px;
+    --font-size: 30px;
+}
